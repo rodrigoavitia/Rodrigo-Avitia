@@ -1,5 +1,5 @@
 import os
-""""
+
 #Ejemplo 1 Crear una lista de numeros e imprimir el contenido
 os.system("cls")
 
@@ -72,7 +72,7 @@ while opc=="si":
   opc=input("¿Desear agregar otro numero a las lista (si/no)? ").lower()
   print(numeros)   
 
-"""
+
 
 
 #Ejemplo 4 Crear una lista multidimensional que permita almacenar el nombre y telefono de una agenda
